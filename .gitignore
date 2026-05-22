@@ -1,0 +1,11 @@
+/vendor/
+/node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+/storage/logs/
+/bootstrap/cache/
+/public/hot
+.vite/
+dist/
